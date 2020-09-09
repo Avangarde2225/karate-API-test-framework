@@ -15,7 +15,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertTrue;
 
-//@RunWith(Karate.class)
+
 public class apiTestRunner {
 
     @Test
